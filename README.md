@@ -4,6 +4,14 @@ Este projeto utilizou a estrutra fornecida pela [Create React App](https://githu
 
 ## Scripts Disponíveis
 
+Nesse projeto foi realizado um comparativo prévio entre três API's, sendo elas: 
+
+ json-server | MSW - Mock Service Worker | MirageJS
+ 
+ Dado a necessidade de realizarmos um CRUD ( Create, Read, Update e Delete), optamos por utilizar o MirageJS devido a riqueza de recursos em comparação as demais.\
+
+## Scripts Disponíveis
+
 No diretório do projeto, você pode executar:
 
 ### `yarn start`
@@ -21,7 +29,7 @@ Informações adicionais podem ser encontradas em: [running tests](https://faceb
 ### `yarn build`
 
 Esse script compila o aplicativo para produção na pasta `build`.\
-Ele agrupa corretamente o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
+Ele agrupa corretamente o React no modo de produção e otimiza" a compilação para obter o melhor desempenho.
 
 A compilação é reduzida e os nomes dos arquivos incluem os hashes.\
 E seu aplicativo estará pronto para ser implantado!
