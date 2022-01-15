@@ -2,7 +2,7 @@
 
 Este projeto utilizou a estrutra fornecida pela [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts Disponíveis
+## API
 
 Nesse projeto foi realizado um comparativo prévio entre três API's, sendo elas: 
 
