@@ -1,6 +1,6 @@
-# Projeto CF Finanças
+# Front-end de uma Dashboard de Finanças
 
-Este projeto utilizou a estrutra fornecida pela [Create React App](https://github.com/facebook/create-react-app).
+Este projeto utilizou a estrutura fornecida pela [Create React App](https://github.com/facebook/create-react-app).
 
 ## API
 
